@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1721138652151,
+    "addDate": 1744121143409,
     "title": "收藏夹栏",
     "children": [
       {
@@ -375,6 +375,13 @@
                     "title": "bing wallpaper",
                     "icon": "https://logo.clearbit.com/bingwallpaper.microsoft.com",
                     "url": "https://bingwallpaper.microsoft.com/Windows/bing/bing-wallpaper/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1738329861379,
+                    "title": "FreeFileSync：开源文件同步和备份软件",
+                    "icon": "https://logo.clearbit.com/freefilesync.org",
+                    "url": "https://freefilesync.org/"
                   }
                 ]
               },
@@ -1070,6 +1077,13 @@
                     "url": "https://www.youtube.com/watch?v=eN0u-mVWyXU&t=29s"
                   }
                 ]
+              },
+              {
+                "type": "link",
+                "addDate": 1733056357993,
+                "title": "BPB-bug-免费节点",
+                "icon": "https://logo.clearbit.com/www.freedidi.com",
+                "url": "https://www.freedidi.com/17131.html"
               }
             ]
           },
@@ -1343,6 +1357,13 @@
                 "title": "Tbox导航 | 只收录优质在线工具的导航网站",
                 "icon": "https://logo.clearbit.com/www.tboxn.com",
                 "url": "https://www.tboxn.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1749646711926,
+                "title": "小众技术工具库 | 专注分享实用软件和精品网站",
+                "icon": "https://logo.clearbit.com/www.xiaozhongjishu.com",
+                "url": "https://www.xiaozhongjishu.com/"
               }
             ]
           },
@@ -1379,6 +1400,13 @@
             "title": "Gmail",
             "icon": "https://logo.clearbit.com/mail.google.com",
             "url": "https://mail.google.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1739016951332,
+            "title": "有道云笔记｜亿万用户的选择",
+            "icon": "https://logo.clearbit.com/note.youdao.com",
+            "url": "https://note.youdao.com/"
           }
         ]
       },
@@ -1552,6 +1580,20 @@
                 "title": "不太灵影视_4k高清电影下载_蓝光迅雷电影下载_最新电视剧下载",
                 "icon": "https://logo.clearbit.com/www.3bt0.com",
                 "url": "https://www.3bt0.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1749646310396,
+                "title": "SeedHub | 影视&动漫分享",
+                "icon": "https://logo.clearbit.com/www.seedhub.cc",
+                "url": "https://www.seedhub.cc/"
+              },
+              {
+                "type": "link",
+                "addDate": 1749646564079,
+                "title": "BT影视_4k高清电影BT下载_蓝光迅雷电影下载_最新电视剧下载",
+                "icon": "https://logo.clearbit.com/www.btbtl.com",
+                "url": "https://www.btbtl.com/"
               }
             ]
           },
@@ -2025,6 +2067,34 @@
         "title": "外网",
         "children": [
           {
+            "type": "folder",
+            "addDate": 1750668486947,
+            "title": "youtobe视频下载",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1750668457418,
+                "title": "YouTube下载1080教程 · Alvin9999/new-pac Wiki",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/Alvin9999/new-pac/wiki/YouTube%E4%B8%8B%E8%BD%BD1080%E6%95%99%E7%A8%8B"
+              },
+              {
+                "type": "link",
+                "addDate": 1750668489482,
+                "title": "免费Youtube 视频下载器 - freesave",
+                "icon": "https://logo.clearbit.com/freesave.co",
+                "url": "https://freesave.co/zh-cn/index.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1753016738720,
+                "title": "免費的YouTube視頻下載器在線（1080p）-YT1D",
+                "icon": "https://logo.clearbit.com/yt1d.com",
+                "url": "https://yt1d.com/zh-tw"
+              }
+            ]
+          },
+          {
             "type": "link",
             "addDate": 1700527351776,
             "title": "YouTube",
@@ -2100,6 +2170,13 @@
             "title": "Telegram汉化",
             "icon": "https://logo.clearbit.com/t.me",
             "url": "https://t.me/setlanguage/classic-zh-cn"
+          },
+          {
+            "type": "link",
+            "addDate": 1752577058418,
+            "title": "Telegram汉化-零度博客",
+            "icon": "https://logo.clearbit.com/www.freedidi.com",
+            "url": "https://www.freedidi.com/1148.html"
           },
           {
             "type": "link",
@@ -2787,6 +2864,13 @@
               },
               {
                 "type": "link",
+                "addDate": 1732962303578,
+                "title": "群晖国际站地址",
+                "icon": "https://logo.clearbit.com/account.synology.com",
+                "url": "https://account.synology.com/"
+              },
+              {
+                "type": "link",
                 "addDate": 1706417518076,
                 "title": "矿神群晖SPK套件中心 上线啦！支持DSM6、DSM7 - 我不是矿神",
                 "icon": "https://logo.clearbit.com/imnks.com",
@@ -2938,6 +3022,20 @@
                 "title": "OpenWrt 添加软件仓库",
                 "icon": "https://logo.clearbit.com/blog.nkxingxh.top",
                 "url": "https://blog.nkxingxh.top/archives/391/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736944475340,
+                "title": "小柔机/openwrt-passwall",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/xiaorouji/openwrt-passwall/releases"
+              },
+              {
+                "type": "link",
+                "addDate": 1736950084917,
+                "title": "xiaorouji/openwrt-passwall2",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/xiaorouji/openwrt-passwall2/releases"
               }
             ]
           },
@@ -3010,174 +3108,6 @@
             "title": "ha500奥睿科MetaServerZero",
             "icon": "https://logo.clearbit.com/www.orico.com.cn",
             "url": "https://www.orico.com.cn/product/detail/8478.html"
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1727344325383,
-        "title": "内网",
-        "children": [
-          {
-            "type": "folder",
-            "addDate": 1727351050673,
-            "title": "N5105-DSM",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1720393840418,
-                "title": "Flare",
-                "icon": "https://logo.clearbit.com/192.168.2.11",
-                "url": "http://192.168.2.11:225/"
-              },
-              {
-                "type": "link",
-                "addDate": 1727344150700,
-                "title": "VM-iStoreOS",
-                "icon": "https://logo.clearbit.com/192.168.2.3",
-                "url": "http://192.168.2.3/"
-              },
-              {
-                "type": "link",
-                "addDate": 1727344104302,
-                "title": "N5105-DSM",
-                "icon": "https://logo.clearbit.com/192.168.2.11",
-                "url": "http://192.168.2.11:5000/"
-              },
-              {
-                "type": "link",
-                "addDate": 1727344306305,
-                "title": "AList",
-                "icon": "https://logo.clearbit.com/192.168.2.11",
-                "url": "http://192.168.2.11:5244/"
-              },
-              {
-                "type": "link",
-                "addDate": 1727344369031,
-                "title": "qBittorrent",
-                "icon": "https://logo.clearbit.com/192.168.2.11",
-                "url": "http://192.168.2.11:8080/"
-              },
-              {
-                "type": "link",
-                "addDate": 1727344384823,
-                "title": "Transmission",
-                "icon": "https://logo.clearbit.com/192.168.2.11",
-                "url": "http://192.168.2.11:9091/"
-              },
-              {
-                "type": "link",
-                "addDate": 1727344397702,
-                "title": "Photos",
-                "icon": "https://logo.clearbit.com/192.168.2.11",
-                "url": "http://192.168.2.11:5010/"
-              },
-              {
-                "type": "link",
-                "addDate": 1727344442852,
-                "title": "Jellyfin",
-                "icon": "https://logo.clearbit.com/192.168.2.11",
-                "url": "http://192.168.2.11:8096/"
-              },
-              {
-                "type": "link",
-                "addDate": 1727344426251,
-                "title": "File Station",
-                "icon": "https://logo.clearbit.com/192.168.2.11",
-                "url": "http://192.168.2.11:5012/"
-              },
-              {
-                "type": "link",
-                "addDate": 1727344412668,
-                "title": "Note Station",
-                "icon": "https://logo.clearbit.com/192.168.2.11",
-                "url": "http://192.168.2.11:5011/"
-              },
-              {
-                "type": "link",
-                "addDate": 1727344437600,
-                "title": "Drive",
-                "icon": "https://logo.clearbit.com/192.168.2.11",
-                "url": "http://192.168.2.11:5013/"
-              },
-              {
-                "type": "link",
-                "addDate": 1727344474903,
-                "title": "IYUUPlus",
-                "icon": "https://logo.clearbit.com/192.168.2.11",
-                "url": "http://192.168.2.11:8787/"
-              },
-              {
-                "type": "link",
-                "addDate": 1729081898461,
-                "title": "QD签到",
-                "icon": "https://logo.clearbit.com/192.168.2.11",
-                "url": "http://192.168.2.11:16007/"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1732881653113,
-            "title": "N2930",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1728913871100,
-                "title": "爱快VM-iStoreOS",
-                "icon": "https://logo.clearbit.com/192.168.2.2",
-                "url": "http://192.168.2.2/"
-              },
-              {
-                "type": "link",
-                "addDate": 1730286181526,
-                "title": "爱快VM-iStoreOS-Docker",
-                "icon": "https://logo.clearbit.com/192.168.2.2",
-                "url": "http://192.168.2.2:9000/#!/auth"
-              },
-              {
-                "type": "link",
-                "addDate": 1730376051193,
-                "title": "iKuai-VM-iStoreOS-集客ac",
-                "icon": "https://logo.clearbit.com/192.168.2.2",
-                "url": "http://192.168.2.2:60650/#/ac/aplist"
-              },
-              {
-                "type": "link",
-                "addDate": 1729150058215,
-                "title": "爱快VM-iStoreOS-QD签到",
-                "icon": "https://logo.clearbit.com/192.168.2.2",
-                "url": "http://192.168.2.2:16007/my/"
-              }
-            ]
-          },
-          {
-            "type": "link",
-            "addDate": 1727344140633,
-            "title": "JDCloud-OpenWrt",
-            "icon": "https://logo.clearbit.com/192.168.2.1",
-            "url": "http://192.168.2.1/"
-          },
-          {
-            "type": "link",
-            "addDate": 1727344567691,
-            "title": "N5105-VM-iStoreOS",
-            "icon": "https://logo.clearbit.com/192.168.2.3",
-            "url": "http://192.168.2.3/"
-          },
-          {
-            "type": "link",
-            "addDate": 1727344622539,
-            "title": "小米路由器",
-            "icon": "https://logo.clearbit.com/192.168.31.1",
-            "url": "http://192.168.31.1/"
-          },
-          {
-            "type": "link",
-            "addDate": 1727344662070,
-            "title": "光猫",
-            "icon": "https://logo.clearbit.com/192.168.1.1",
-            "url": "http://192.168.1.1/"
           }
         ]
       },
@@ -3291,15 +3221,15 @@
                     "type": "link",
                     "addDate": 1728171171832,
                     "title": "J1800-DSM",
-                    "icon": "https://logo.clearbit.com/100.74.240.25",
-                    "url": "http://100.74.240.25:5000/"
+                    "icon": "https://logo.clearbit.com/100.101.171.126",
+                    "url": "http://100.101.171.126:5000/"
                   },
                   {
                     "type": "link",
                     "addDate": 1732504355408,
                     "title": "AList",
-                    "icon": "https://logo.clearbit.com/100.74.240.25",
-                    "url": "http://100.74.240.25:5244/"
+                    "icon": "https://logo.clearbit.com/100.101.171.126",
+                    "url": "http://100.101.171.126:5244/"
                   }
                 ]
               }
@@ -3345,6 +3275,13 @@
                 ]
               }
             ]
+          },
+          {
+            "type": "link",
+            "addDate": 1737816708190,
+            "title": "cpolar官网-安全的内网穿透工具 | 无需公网ip | 远程访问 | 搭建网站",
+            "icon": "https://logo.clearbit.com/www.cpolar.com",
+            "url": "https://www.cpolar.com/"
           }
         ]
       },
