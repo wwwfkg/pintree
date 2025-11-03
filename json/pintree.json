@@ -559,6 +559,13 @@
                     "url": "https://greasyfork.org/zh-CN"
                   }
                 ]
+              },
+              {
+                "type": "link",
+                "addDate": 1760926267179,
+                "title": "电脑开荒网 - 找工具不迷路!",
+                "icon": "https://logo.clearbit.com/dnkh.mwks77.cn",
+                "url": "http://dnkh.mwks77.cn/"
               }
             ]
           },
@@ -944,6 +951,13 @@
                 "title": "吾爱破解",
                 "icon": "https://logo.clearbit.com/www.52pojie.cn",
                 "url": "https://www.52pojie.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1761825298401,
+                "title": "好用斋本斋",
+                "icon": "https://logo.clearbit.com/haoyongzhai.netlify.app",
+                "url": "https://haoyongzhai.netlify.app/#/"
               }
             ]
           },
@@ -2002,7 +2016,7 @@
                   {
                     "type": "link",
                     "addDate": 1715067860317,
-                    "title": "v2rayN软件电脑资源分享师官方",
+                    "title": "v2rayN软件-官方-GitHub",
                     "icon": "https://logo.clearbit.com/github.com",
                     "url": "https://github.com/2dust/v2rayN/releases"
                   },
@@ -2660,6 +2674,13 @@
               },
               {
                 "type": "link",
+                "addDate": 1762152165196,
+                "title": "oect-dsm-qbittorrent",
+                "icon": "https://logo.clearbit.com/oect.hadon98.xyz",
+                "url": "https://oect.hadon98.xyz:25007/"
+              },
+              {
+                "type": "link",
                 "addDate": 1760094106006,
                 "title": "oect-dsm-Transmission",
                 "icon": "https://logo.clearbit.com/oect.hadon98.xyz",
@@ -2674,13 +2695,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1759756769597,
-                "title": "n5105飞牛影视",
-                "icon": "https://logo.clearbit.com/oect.hadon98.xyz",
-                "url": "https://oect.hadon98.xyz:25100/v/login"
-              },
-              {
-                "type": "link",
                 "addDate": 1759756480946,
                 "title": "n5105飞牛虚拟机-iStoreOS",
                 "icon": "https://logo.clearbit.com/oect.hadon98.xyz",
@@ -2692,6 +2706,13 @@
                 "title": "n5105飞牛-Music Tag Web-音乐刮削",
                 "icon": "https://logo.clearbit.com/oect.hadon98.xyz",
                 "url": "https://oect.hadon98.xyz:25102/"
+              },
+              {
+                "type": "link",
+                "addDate": 1759756769597,
+                "title": "n5105飞牛影视",
+                "icon": "https://logo.clearbit.com/oect.hadon98.xyz",
+                "url": "https://oect.hadon98.xyz:25103/"
               },
               {
                 "type": "link",
@@ -2776,6 +2797,13 @@
                 "title": "海胆之家haidan",
                 "icon": "https://logo.clearbit.com/www.haidan.video",
                 "url": "https://www.haidan.video/"
+              },
+              {
+                "type": "link",
+                "addDate": 1762006315805,
+                "title": "铂金学院 :: 首页 - Powered by NexusPHP",
+                "icon": "https://logo.clearbit.com/ptchina.org",
+                "url": "https://ptchina.org/"
               },
               {
                 "type": "folder",
