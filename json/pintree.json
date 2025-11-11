@@ -8,8 +8,8 @@
         "type": "link",
         "addDate": 1759755834737,
         "title": "米饭的导航页",
-        "icon": "https://logo.clearbit.com/oect.hadon98.xyz",
-        "url": "https://oect.hadon98.xyz:25000/"
+        "icon": "https://logo.clearbit.com/oect.991518.xyz",
+        "url": "https://oect.991518.xyz:25000/"
       },
       {
         "type": "link",
@@ -1014,6 +1014,13 @@
                 "title": "华为云注册域名Cloudflare-帮助中心-华为云服务器代理商",
                 "icon": "https://logo.clearbit.com/www.cqhwr.com",
                 "url": "https://www.cqhwr.com/help/11132.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1762700360117,
+                "title": "迈向未来 - Spaceship",
+                "icon": "https://logo.clearbit.com/www.spaceship.com",
+                "url": "https://www.spaceship.com/zh/"
               }
             ]
           },
@@ -2506,28 +2513,21 @@
                   {
                     "type": "folder",
                     "addDate": 1728171224537,
-                    "title": "N5105-DSM",
+                    "title": "oldhome-oec-istoreos",
                     "children": [
                       {
                         "type": "link",
                         "addDate": 1727654348692,
-                        "title": "N5105-DSM",
-                        "icon": "https://logo.clearbit.com/100.125.0.60",
-                        "url": "http://100.125.0.60:5000/"
+                        "title": "istoreos",
+                        "icon": "https://logo.clearbit.com/100.92.78.17",
+                        "url": "http://100.92.78.17/"
                       },
                       {
                         "type": "link",
-                        "addDate": 1728914248995,
-                        "title": "ikuai",
-                        "icon": "https://logo.clearbit.com/100.125.0.60",
-                        "url": "http://100.125.0.60:22510/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1727654348692,
-                        "title": "ikuai-vm-istoreos",
-                        "icon": "https://logo.clearbit.com/100.125.0.60",
-                        "url": "http://100.125.0.60:22511/"
+                        "addDate": 1727704742525,
+                        "title": "openList",
+                        "icon": "https://logo.clearbit.com/100.92.78.17",
+                        "url": "http://100.92.78.17:5244/"
                       },
                       {
                         "type": "link",
@@ -2545,45 +2545,10 @@
                       },
                       {
                         "type": "link",
-                        "addDate": 1727704742525,
-                        "title": "AList",
-                        "icon": "https://logo.clearbit.com/100.125.0.60",
-                        "url": "http://100.125.0.60:5244/"
-                      },
-                      {
-                        "type": "link",
                         "addDate": 1727704333413,
                         "title": "Jellyfin",
                         "icon": "https://logo.clearbit.com/100.125.0.60",
                         "url": "http://100.125.0.60:8096/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1727704623092,
-                        "title": "Synology Photos",
-                        "icon": "https://logo.clearbit.com/100.125.0.60",
-                        "url": "http://100.125.0.60:5010/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1727704538639,
-                        "title": "Note Station",
-                        "icon": "https://logo.clearbit.com/100.125.0.60",
-                        "url": "http://100.125.0.60:5011/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1727704711750,
-                        "title": "File Station",
-                        "icon": "https://logo.clearbit.com/100.125.0.60",
-                        "url": "http://100.125.0.60:5012/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1727704778809,
-                        "title": "Synology Drive",
-                        "icon": "https://logo.clearbit.com/100.125.0.60",
-                        "url": "http://100.125.0.60:5013/"
                       }
                     ]
                   },
@@ -2648,85 +2613,85 @@
                 "type": "link",
                 "addDate": 1759756409860,
                 "title": "oect-dsm",
-                "icon": "https://logo.clearbit.com/oect.hadon98.xyz",
-                "url": "https://oect.hadon98.xyz:25001/"
+                "icon": "https://logo.clearbit.com/oect.991518.xyz",
+                "url": "https://oect.991518.xyz:25001/"
               },
               {
                 "type": "link",
                 "addDate": 1759759802149,
                 "title": "PanSou 盘搜",
-                "icon": "https://logo.clearbit.com/oect.hadon98.xyz",
-                "url": "https://oect.hadon98.xyz:25003/"
+                "icon": "https://logo.clearbit.com/oect.991518.xyz",
+                "url": "https://oect.991518.xyz:25003/"
               },
               {
                 "type": "link",
                 "addDate": 1759835462391,
                 "title": "oect-dsm-qd签到",
-                "icon": "https://logo.clearbit.com/oect.hadon98.xyz",
-                "url": "https://oect.hadon98.xyz:25004/"
+                "icon": "https://logo.clearbit.com/oect.991518.xyz",
+                "url": "https://oect.991518.xyz:25004/"
               },
               {
                 "type": "link",
                 "addDate": 1759919578672,
                 "title": "oect-dsm音乐刮削",
-                "icon": "https://logo.clearbit.com/oect.hadon98.xyz",
-                "url": "https://oect.hadon98.xyz:25005/"
+                "icon": "https://logo.clearbit.com/oect.991518.xyz",
+                "url": "https://oect.991518.xyz:25005/"
               },
               {
                 "type": "link",
                 "addDate": 1762152165196,
                 "title": "oect-dsm-qbittorrent",
-                "icon": "https://logo.clearbit.com/oect.hadon98.xyz",
-                "url": "https://oect.hadon98.xyz:25007/"
+                "icon": "https://logo.clearbit.com/oect.991518.xyz",
+                "url": "https://oect.991518.xyz:25007/"
               },
               {
                 "type": "link",
                 "addDate": 1760094106006,
                 "title": "oect-dsm-Transmission",
-                "icon": "https://logo.clearbit.com/oect.hadon98.xyz",
-                "url": "https://oect.hadon98.xyz:25006/"
+                "icon": "https://logo.clearbit.com/oect.991518.xyz",
+                "url": "https://oect.991518.xyz:25006/"
               },
               {
                 "type": "link",
                 "addDate": 1759756444572,
                 "title": "n5105飞牛",
-                "icon": "https://logo.clearbit.com/oect.hadon98.xyz",
-                "url": "https://oect.hadon98.xyz:25100/"
+                "icon": "https://logo.clearbit.com/oect.991518.xyz",
+                "url": "https://oect.991518.xyz:25100/"
               },
               {
                 "type": "link",
                 "addDate": 1759756480946,
                 "title": "n5105飞牛虚拟机-iStoreOS",
-                "icon": "https://logo.clearbit.com/oect.hadon98.xyz",
-                "url": "https://oect.hadon98.xyz:25101/"
+                "icon": "https://logo.clearbit.com/oect.991518.xyz",
+                "url": "https://oect.991518.xyz:25101/"
               },
               {
                 "type": "link",
                 "addDate": 1759756648448,
                 "title": "n5105飞牛-Music Tag Web-音乐刮削",
-                "icon": "https://logo.clearbit.com/oect.hadon98.xyz",
-                "url": "https://oect.hadon98.xyz:25102/"
+                "icon": "https://logo.clearbit.com/oect.991518.xyz",
+                "url": "https://oect.991518.xyz:25102/"
               },
               {
                 "type": "link",
                 "addDate": 1759756769597,
                 "title": "n5105飞牛影视",
-                "icon": "https://logo.clearbit.com/oect.hadon98.xyz",
-                "url": "https://oect.hadon98.xyz:25103/"
+                "icon": "https://logo.clearbit.com/oect.991518.xyz",
+                "url": "https://oect.991518.xyz:25103/"
               },
               {
                 "type": "link",
                 "addDate": 1759756741447,
                 "title": "dell-wyse3040-iStoreOS",
-                "icon": "https://logo.clearbit.com/oect.hadon98.xyz",
-                "url": "https://oect.hadon98.xyz:29999/"
+                "icon": "https://logo.clearbit.com/oect.991518.xyz",
+                "url": "https://oect.991518.xyz:29999/"
               },
               {
                 "type": "link",
                 "addDate": 1759756708821,
                 "title": "Kwrt京东云主路由",
-                "icon": "https://logo.clearbit.com/oect.hadon98.xyz",
-                "url": "https://oect.hadon98.xyz:30000/"
+                "icon": "https://logo.clearbit.com/oect.991518.xyz",
+                "url": "https://oect.991518.xyz:30000/"
               }
             ]
           },
@@ -3392,6 +3357,13 @@
                 "title": "iStoreOS官网",
                 "icon": "https://logo.clearbit.com/site.istoreos.com",
                 "url": "https://site.istoreos.com/firmware"
+              },
+              {
+                "type": "link",
+                "addDate": 1762170682779,
+                "title": "酷友社 - 酷酷软件中心！酷友社论坛有海量应用教程与问题反馈，覆盖Docker、智能家居、影音存储，华硕路由专属优化，玩转iStoreOS及开源项目，酷友社助你成为软件达人！",
+                "icon": "https://logo.clearbit.com/www.koolcenter.com",
+                "url": "https://www.koolcenter.com/"
               }
             ]
           },
