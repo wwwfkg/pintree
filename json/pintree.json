@@ -54,6 +54,20 @@
         "url": "https://www.doubao.com/chat/"
       },
       {
+        "type": "link",
+        "addDate": 1764591452309,
+        "title": "DeepSeek",
+        "icon": "https://logo.clearbit.com/chat.deepseek.com",
+        "url": "https://chat.deepseek.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1763344212777,
+        "title": "元宝",
+        "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
+        "url": "https://yuanbao.tencent.com/"
+      },
+      {
         "type": "folder",
         "addDate": 1721711336061,
         "title": "电脑",
@@ -254,6 +268,13 @@
                         "title": "Internet Download Manager: IDM下载器",
                         "icon": "https://logo.clearbit.com/www.internetdownloadmanager.com",
                         "url": "https://www.internetdownloadmanager.com/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1762858569477,
+                        "title": "适用于 Mac 和 Windows 的 Neat 下载管理器（免费 Internet 下载管理器 Mac 和 Windows）",
+                        "icon": "https://logo.clearbit.com/neatdownloadmanager.com",
+                        "url": "https://neatdownloadmanager.com/index.php/en/"
                       },
                       {
                         "type": "link",
@@ -746,6 +767,13 @@
                     "title": "黑果在线--阿飞",
                     "icon": "https://logo.clearbit.com/mac.fike.top",
                     "url": "https://mac.fike.top/cgi/index/index"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1762858621799,
+                    "title": "适用于 Mac 和 Windows 的 Neat 下载管理器（免费 Internet 下载管理器 Mac 和 Windows）",
+                    "icon": "https://logo.clearbit.com/neatdownloadmanager.com",
+                    "url": "https://neatdownloadmanager.com/"
                   }
                 ]
               },
@@ -2597,15 +2625,7 @@
                     "type": "folder",
                     "addDate": 1728171343636,
                     "title": "oect-dsm",
-                    "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1729327114268,
-                        "title": "oect-dsm",
-                        "icon": "https://logo.clearbit.com/192.168.2.13",
-                        "url": "http://192.168.2.13:5000/"
-                      }
-                    ]
+                    "children": []
                   }
                 ]
               },
@@ -2650,6 +2670,13 @@
                 "title": "oect-dsm-Transmission",
                 "icon": "https://logo.clearbit.com/oect.991518.xyz",
                 "url": "https://oect.991518.xyz:25006/"
+              },
+              {
+                "type": "link",
+                "addDate": 1763963416952,
+                "title": "oect-dsm-navidrome",
+                "icon": "https://logo.clearbit.com/oect.991518.xyz",
+                "url": "https://oect.991518.xyz:25009/"
               },
               {
                 "type": "link",
