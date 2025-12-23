@@ -1184,6 +1184,20 @@
             "children": [
               {
                 "type": "folder",
+                "addDate": 1766378936635,
+                "title": "动漫",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1766378912256,
+                    "title": "名侦探柯南剧集+剧场版1-27合集-提取码-wTVz",
+                    "icon": "https://logo.clearbit.com/pan.quark.cn",
+                    "url": "https://pan.quark.cn/s/ccdaaf947224?pwd=wTVz#/list/share"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
                 "addDate": 1715132837352,
                 "title": "影剧下载网站",
                 "children": [
