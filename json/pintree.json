@@ -8,8 +8,8 @@
         "type": "link",
         "addDate": 1759755834737,
         "title": "米饭的导航页",
-        "icon": "https://logo.clearbit.com/oect.991518.xyz",
-        "url": "https://oect.991518.xyz:25000/"
+        "icon": "https://logo.clearbit.com/oec.991518.xyz",
+        "url": "https://oec.991518.xyz:25000/"
       },
       {
         "type": "link",
@@ -1182,6 +1182,12 @@
             "addDate": 1712017653680,
             "title": "影视",
             "children": [
+              {
+                "type": "folder",
+                "addDate": 1767257031630,
+                "title": "电影",
+                "children": []
+              },
               {
                 "type": "folder",
                 "addDate": 1766378936635,
@@ -2647,92 +2653,92 @@
                 "type": "link",
                 "addDate": 1759756409860,
                 "title": "oect-dsm",
-                "icon": "https://logo.clearbit.com/oect.991518.xyz",
-                "url": "https://oect.991518.xyz:25001/"
+                "icon": "https://logo.clearbit.com/oec.991518.xyz",
+                "url": "https://oec.991518.xyz:25001/"
               },
               {
                 "type": "link",
                 "addDate": 1759759802149,
                 "title": "PanSou 盘搜",
-                "icon": "https://logo.clearbit.com/oect.991518.xyz",
-                "url": "https://oect.991518.xyz:25003/"
+                "icon": "https://logo.clearbit.com/oec.991518.xyz",
+                "url": "https://oec.991518.xyz:25003/"
               },
               {
                 "type": "link",
                 "addDate": 1759835462391,
                 "title": "oect-dsm-qd签到",
-                "icon": "https://logo.clearbit.com/oect.991518.xyz",
-                "url": "https://oect.991518.xyz:25004/"
+                "icon": "https://logo.clearbit.com/oec.991518.xyz",
+                "url": "https://oec.991518.xyz:25004/"
               },
               {
                 "type": "link",
                 "addDate": 1759919578672,
                 "title": "oect-dsm音乐刮削",
-                "icon": "https://logo.clearbit.com/oect.991518.xyz",
-                "url": "https://oect.991518.xyz:25005/"
+                "icon": "https://logo.clearbit.com/oec.991518.xyz",
+                "url": "https://oec.991518.xyz:25005/"
               },
               {
                 "type": "link",
                 "addDate": 1762152165196,
                 "title": "oect-dsm-qbittorrent",
-                "icon": "https://logo.clearbit.com/oect.991518.xyz",
-                "url": "https://oect.991518.xyz:25007/"
+                "icon": "https://logo.clearbit.com/oec.991518.xyz",
+                "url": "https://oec.991518.xyz:25007/"
               },
               {
                 "type": "link",
                 "addDate": 1760094106006,
                 "title": "oect-dsm-Transmission",
-                "icon": "https://logo.clearbit.com/oect.991518.xyz",
-                "url": "https://oect.991518.xyz:25006/"
+                "icon": "https://logo.clearbit.com/oec.991518.xyz",
+                "url": "https://oec.991518.xyz:25006/"
               },
               {
                 "type": "link",
                 "addDate": 1763963416952,
                 "title": "oect-dsm-navidrome",
-                "icon": "https://logo.clearbit.com/oect.991518.xyz",
-                "url": "https://oect.991518.xyz:25009/"
+                "icon": "https://logo.clearbit.com/oec.991518.xyz",
+                "url": "https://oec.991518.xyz:25009/"
               },
               {
                 "type": "link",
                 "addDate": 1759756444572,
                 "title": "n5105飞牛",
-                "icon": "https://logo.clearbit.com/oect.991518.xyz",
-                "url": "https://oect.991518.xyz:25100/"
+                "icon": "https://logo.clearbit.com/oec.991518.xyz",
+                "url": "https://oec.991518.xyz:25100/"
               },
               {
                 "type": "link",
                 "addDate": 1759756480946,
                 "title": "n5105飞牛虚拟机-iStoreOS",
-                "icon": "https://logo.clearbit.com/oect.991518.xyz",
-                "url": "https://oect.991518.xyz:25101/"
+                "icon": "https://logo.clearbit.com/oec.991518.xyz",
+                "url": "https://oec.991518.xyz:25101/"
               },
               {
                 "type": "link",
                 "addDate": 1759756648448,
                 "title": "n5105飞牛-Music Tag Web-音乐刮削",
-                "icon": "https://logo.clearbit.com/oect.991518.xyz",
-                "url": "https://oect.991518.xyz:25102/"
+                "icon": "https://logo.clearbit.com/oec.991518.xyz",
+                "url": "https://oec.991518.xyz:25102/"
               },
               {
                 "type": "link",
                 "addDate": 1759756769597,
                 "title": "n5105飞牛影视",
-                "icon": "https://logo.clearbit.com/oect.991518.xyz",
-                "url": "https://oect.991518.xyz:25103/"
+                "icon": "https://logo.clearbit.com/oec.991518.xyz",
+                "url": "https://oec.991518.xyz:25103/"
               },
               {
                 "type": "link",
                 "addDate": 1759756741447,
                 "title": "dell-wyse3040-iStoreOS",
-                "icon": "https://logo.clearbit.com/oect.991518.xyz",
-                "url": "https://oect.991518.xyz:29999/"
+                "icon": "https://logo.clearbit.com/oec.991518.xyz",
+                "url": "https://oec.991518.xyz:29999/"
               },
               {
                 "type": "link",
                 "addDate": 1759756708821,
                 "title": "Kwrt京东云主路由",
-                "icon": "https://logo.clearbit.com/oect.991518.xyz",
-                "url": "https://oect.991518.xyz:30000/"
+                "icon": "https://logo.clearbit.com/oec.991518.xyz",
+                "url": "https://oec.991518.xyz:30000/"
               }
             ]
           },
@@ -3279,6 +3285,20 @@
                 "title": "飞牛账号",
                 "icon": "https://logo.clearbit.com/account.fnnas.com",
                 "url": "https://account.fnnas.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1766661837446,
+                "title": "飞牛论坛",
+                "icon": "https://logo.clearbit.com/club.fnnas.com",
+                "url": "https://club.fnnas.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1767359563154,
+                "title": "OEC ARM飞牛OTA最强工具-多系统切换 升级 克隆 LED灯 修改MAC 一键工具【原创】-京东云、网心云、玩客云等PCDN云设备-恩山无线论坛 - Powered by Discuz!",
+                "icon": "https://logo.clearbit.com/www.right.com.cn",
+                "url": "https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8459910&highlight=oec"
               }
             ]
           },
