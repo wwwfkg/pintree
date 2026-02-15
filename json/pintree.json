@@ -331,6 +331,13 @@
                         "title": "qbittorrent-搜索插件",
                         "icon": "https://logo.clearbit.com/github.com",
                         "url": "https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1768198624508,
+                        "title": "jarocheng0123/IDM-CN: 用于激活和重置 Internet Download Manager 试用版的开源工具",
+                        "icon": "https://logo.clearbit.com/github.com",
+                        "url": "https://github.com/jarocheng0123/IDM-CN?tab=readme-ov-file"
                       }
                     ]
                   },
@@ -1147,6 +1154,20 @@
                 "title": "小众技术工具库 | 专注分享实用软件和精品网站",
                 "icon": "https://logo.clearbit.com/www.xiaozhongjishu.com",
                 "url": "https://www.xiaozhongjishu.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1768391421228,
+                "title": "种子搜索引擎 - BT4G",
+                "icon": "https://logo.clearbit.com/bt4gprx.com",
+                "url": "https://bt4gprx.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1768391730114,
+                "title": "BTDigg DHT Search Engine: Free Search Engine For Free Torrent Content",
+                "icon": "https://logo.clearbit.com/btdig.com",
+                "url": "https://btdig.com/"
               }
             ]
           },
@@ -1640,6 +1661,20 @@
           },
           {
             "type": "folder",
+            "addDate": 1768653584063,
+            "title": "音乐",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1768653540019,
+                "title": "HiFiNi - 音乐磁场 | 无损音乐下载|高清MV|FLAC|MP3高品质音乐免费下载试听网站",
+                "icon": "https://logo.clearbit.com/hifiti.com",
+                "url": "https://hifiti.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
             "addDate": 1727654428108,
             "title": "游戏",
             "children": [
@@ -2071,7 +2106,7 @@
                   {
                     "type": "link",
                     "addDate": 1715067860317,
-                    "title": "v2rayN软件-官方-GitHub",
+                    "title": "v2rayN软件-官方-GitHub-pc桌面端",
                     "icon": "https://logo.clearbit.com/github.com",
                     "url": "https://github.com/2dust/v2rayN/releases"
                   },
@@ -3281,13 +3316,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1729230842912,
-                "title": "飞牛账号",
-                "icon": "https://logo.clearbit.com/account.fnnas.com",
-                "url": "https://account.fnnas.com/"
-              },
-              {
-                "type": "link",
                 "addDate": 1766661837446,
                 "title": "飞牛论坛",
                 "icon": "https://logo.clearbit.com/club.fnnas.com",
@@ -3295,10 +3323,45 @@
               },
               {
                 "type": "link",
+                "addDate": 1729230842912,
+                "title": "飞牛账号",
+                "icon": "https://logo.clearbit.com/account.fnnas.com",
+                "url": "https://account.fnnas.com/"
+              },
+              {
+                "type": "link",
                 "addDate": 1767359563154,
                 "title": "OEC ARM飞牛OTA最强工具-多系统切换 升级 克隆 LED灯 修改MAC 一键工具【原创】-京东云、网心云、玩客云等PCDN云设备-恩山无线论坛 - Powered by Discuz!",
                 "icon": "https://logo.clearbit.com/www.right.com.cn",
                 "url": "https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8459910&highlight=oec"
+              },
+              {
+                "type": "link",
+                "addDate": 1768136066101,
+                "title": "ram fnos oec 分区 克隆 迁移 UPS ssh 脚本",
+                "icon": "https://logo.clearbit.com/us1.vvvvvv.de5.net",
+                "url": "https://us1.vvvvvv.de5.net/soft/"
+              },
+              {
+                "type": "link",
+                "addDate": 1769084947026,
+                "title": "规避运营商PCDN误判限速 - 攻略分享 飞牛私有云论坛 fnOS",
+                "icon": "https://logo.clearbit.com/club.fnnas.com",
+                "url": "https://club.fnnas.com/forum.php?mod=viewthread&tid=51313&extra=page%3D1"
+              },
+              {
+                "type": "link",
+                "addDate": 1769514048860,
+                "title": "OEC/OEC-Turbo 飞牛固件",
+                "icon": "https://logo.clearbit.com/www.right.com.cn",
+                "url": "https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8459579&highlight=oec%2B440"
+              },
+              {
+                "type": "link",
+                "addDate": 1770041049978,
+                "title": "oec/oect刷机后恢复应用中心原安装套件数据方法",
+                "icon": "https://logo.clearbit.com/www.right.com.cn",
+                "url": "https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8462653&highlight=%E9%A3%9E%E7%89%9B%2Boec"
               }
             ]
           },
@@ -3425,6 +3488,20 @@
                 "title": "酷友社 - 酷酷软件中心！酷友社论坛有海量应用教程与问题反馈，覆盖Docker、智能家居、影音存储，华硕路由专属优化，玩转iStoreOS及开源项目，酷友社助你成为软件达人！",
                 "icon": "https://logo.clearbit.com/www.koolcenter.com",
                 "url": "https://www.koolcenter.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1767871877104,
+                "title": "OpenClash官方GitHub",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/vernesong/OpenClash/releases"
+              },
+              {
+                "type": "link",
+                "addDate": 1767959735185,
+                "title": "OpenClash 订阅转换模板， OpenClash 设置教程，分流、DNS无污染无泄漏",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/Aethersailor/Custom_OpenClash_Rules"
               }
             ]
           },
