@@ -6,10 +6,10 @@
     "children": [
       {
         "type": "link",
-        "addDate": 1759755834737,
-        "title": "米饭的导航页",
-        "icon": "https://logo.clearbit.com/oec.991518.xyz",
-        "url": "https://oec.991518.xyz:25000/"
+        "addDate": 1774794726352,
+        "title": "mifanHub",
+        "icon": "https://logo.clearbit.com/hub.oectfnos.991518.xyz",
+        "url": "https://hub.oectfnos.991518.xyz/"
       },
       {
         "type": "link",
@@ -1193,8 +1193,15 @@
           },
           {
             "type": "link",
+            "addDate": 1774244995068,
+            "title": "163网易邮箱",
+            "icon": "https://logo.clearbit.com/mail.163.com",
+            "url": "https://mail.163.com/"
+          },
+          {
+            "type": "link",
             "addDate": 1739016951332,
-            "title": "有道云笔记｜亿万用户的选择",
+            "title": "有道云笔记",
             "icon": "https://logo.clearbit.com/note.youdao.com",
             "url": "https://note.youdao.com/"
           }
@@ -1631,17 +1638,10 @@
               },
               {
                 "type": "link",
-                "addDate": 1700803441151,
-                "title": "破解视频全民解析网",
-                "icon": "https://logo.clearbit.com/www.12vv.cn",
-                "url": "http://www.12vv.cn/"
-              },
-              {
-                "type": "link",
-                "addDate": 1719970013182,
-                "title": "果核音乐",
-                "icon": "https://logo.clearbit.com/ghyinyue.com",
-                "url": "https://ghyinyue.com/"
+                "addDate": 1774851821757,
+                "title": "爱壹帆",
+                "icon": "https://logo.clearbit.com/www.iyf.tv",
+                "url": "https://www.iyf.tv/"
               },
               {
                 "type": "link",
@@ -1663,6 +1663,13 @@
                 "title": "emby公益服",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/craftchai/emby-free-server?tab=readme-ov-file"
+              },
+              {
+                "type": "link",
+                "addDate": 1774852234392,
+                "title": "可可影视",
+                "icon": "https://logo.clearbit.com/www.kkys01.com",
+                "url": "https://www.kkys01.com/"
               }
             ]
           },
@@ -2319,13 +2326,6 @@
           },
           {
             "type": "link",
-            "addDate": 1721711238826,
-            "title": "Telegram汉化",
-            "icon": "https://logo.clearbit.com/t.me",
-            "url": "https://t.me/setlanguage/classic-zh-cn"
-          },
-          {
-            "type": "link",
             "addDate": 1752577058418,
             "title": "Telegram汉化-零度博客",
             "icon": "https://logo.clearbit.com/www.freedidi.com",
@@ -2580,6 +2580,13 @@
                 "title": "免费在线性爱电影和色情视频 - Thumbzilla",
                 "icon": "https://logo.clearbit.com/www.thumbzilla.com",
                 "url": "https://www.thumbzilla.com/?utm_source=pornhub&utm_medium=maintenance&utm_campaign=pornhub-maintenance"
+              },
+              {
+                "type": "link",
+                "addDate": 1774183444892,
+                "title": "观看历史 - 你看过的色情视频 |YouPorn（你色情）",
+                "icon": "https://logo.clearbit.com/www.youporn.com",
+                "url": "https://www.youporn.com/watch-history/"
               }
             ]
           }
@@ -3376,6 +3383,13 @@
                 "title": "oec/oect刷机后恢复应用中心原安装套件数据方法",
                 "icon": "https://logo.clearbit.com/www.right.com.cn",
                 "url": "https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8462653&highlight=%E9%A3%9E%E7%89%9B%2Boec"
+              },
+              {
+                "type": "link",
+                "addDate": 1774443015681,
+                "title": "使用lucky重定向实现去端口访问 - 攻略分享 飞牛私有云论坛 fnOS",
+                "icon": "https://logo.clearbit.com/club.fnnas.com",
+                "url": "https://club.fnnas.com/forum.php?mod=viewthread&tid=6923"
               }
             ]
           },
