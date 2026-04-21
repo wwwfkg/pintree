@@ -7,9 +7,9 @@
       {
         "type": "link",
         "addDate": 1774794726352,
-        "title": "mifanHub",
-        "icon": "https://logo.clearbit.com/hub.oectfnos.991518.xyz",
-        "url": "https://hub.oectfnos.991518.xyz/"
+        "title": "Hub",
+        "icon": "https://logo.clearbit.com/hub.oect.991518.xyz",
+        "url": "https://hub.oect.991518.xyz:51118/"
       },
       {
         "type": "link",
@@ -552,6 +552,13 @@
                 "title": "巨魔录音机官方GitHub",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/Lessica/TrollRecorder"
+              },
+              {
+                "type": "link",
+                "addDate": 1775864913722,
+                "title": "黑苹果 EFI 构建工具",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/lzhoang2801/OpCore-Simplify?tab=readme-ov-file"
               }
             ]
           },
@@ -926,17 +933,17 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1711965689510,
-                "title": "音乐直链搜索|音乐在线试听 - by 刘志进实验室",
-                "icon": "https://logo.clearbit.com/music.liuzhijin.cn",
-                "url": "https://music.liuzhijin.cn/"
-              },
-              {
-                "type": "link",
                 "addDate": 1768653540019,
                 "title": "HiFiNi - 音乐磁场 | 无损音乐下载|高清MV|FLAC|MP3高品质音乐免费下载试听网站",
                 "icon": "https://logo.clearbit.com/hifiti.com",
                 "url": "https://hifiti.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1711965689510,
+                "title": "音乐直链搜索|音乐在线试听 - by 刘志进实验室",
+                "icon": "https://logo.clearbit.com/music.liuzhijin.cn",
+                "url": "https://music.liuzhijin.cn/"
               },
               {
                 "type": "link",
@@ -2027,8 +2034,8 @@
                 "type": "link",
                 "addDate": 1727733962676,
                 "title": "海胆之家haidan",
-                "icon": "https://logo.clearbit.com/www.haidan.video",
-                "url": "https://www.haidan.video/"
+                "icon": "https://logo.clearbit.com/www.haidan.cc",
+                "url": "https://www.haidan.cc/"
               },
               {
                 "type": "link",
