@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1779666205393,
+    "addDate": 1780049906235,
     "title": "书签栏",
     "children": [
       {
@@ -328,6 +328,13 @@
                 "title": "IP地址信息和纯净度检测 | IPPure",
                 "icon": "https://logo.clearbit.com/ippure.com",
                 "url": "https://ippure.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1780235131632,
+                "title": "在线tcping检测工具_在线tcping端口检测_端口延迟测试-测吧",
+                "icon": "https://logo.clearbit.com/www.ce8.com",
+                "url": "https://www.ce8.com/tcping"
               }
             ]
           },
@@ -1250,8 +1257,8 @@
                 "type": "link",
                 "addDate": 1779667932519,
                 "title": "991518cccd自建节点",
-                "icon": "https://logo.clearbit.com/991518.cc.cd",
-                "url": "https://991518.cc.cd/login"
+                "icon": "https://logo.clearbit.com/www.991518.cc.cd",
+                "url": "https://www.991518.cc.cd/login"
               },
               {
                 "type": "link",
