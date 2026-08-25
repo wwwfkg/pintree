@@ -307,6 +307,13 @@
                 "title": "cpu对比-2个",
                 "icon": "https://logo.clearbit.com/www.cpu-monkey.com",
                 "url": "https://www.cpu-monkey.com/zh-cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1787628419487,
+                "title": "钢化膜黑边检测",
+                "icon": "https://logo.clearbit.com/getstart13.github.io",
+                "url": "https://getstart13.github.io/light-tools/html/black-side-detect.html"
               }
             ]
           },
@@ -552,6 +559,13 @@
                 "title": "掌阅老旧版本大全_所有历史官方版安装下载_豌豆荚",
                 "icon": "https://logo.clearbit.com/m.wandoujia.com",
                 "url": "https://m.wandoujia.com/apps/46753/history"
+              },
+              {
+                "type": "link",
+                "addDate": 1783869564184,
+                "title": "短信转发推送",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/pppscn/SmsForwarder/releases"
               }
             ]
           },
