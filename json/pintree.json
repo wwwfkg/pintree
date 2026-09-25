@@ -9,7 +9,7 @@
         "addDate": 1788780522274,
         "title": "hub",
         "icon": "https://logo.clearbit.com/192.168.2.13",
-        "url": "http://192.168.2.13:13002/"
+        "url": "http://192.168.2.13:6005/"
       },
       {
         "type": "folder",
