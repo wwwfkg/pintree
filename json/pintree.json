@@ -8,8 +8,8 @@
         "type": "link",
         "addDate": 1788780522274,
         "title": "hub",
-        "icon": "https://logo.clearbit.com/192.168.2.13",
-        "url": "http://192.168.2.13:6005/"
+        "icon": "https://logo.clearbit.com/192.168.2.10",
+        "url": "http://192.168.2.10:6005/"
       },
       {
         "type": "folder",
@@ -1868,6 +1868,13 @@
                 "title": "集客固件-ac+ap-官方-京东云一代刷ap246p",
                 "icon": "https://logo.clearbit.com/file.cnrouter.com",
                 "url": "http://file.cnrouter.com/index.php/Index/index.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1790413570898,
+                "title": "集客ap",
+                "icon": "https://logo.clearbit.com/file.cnrouter.com",
+                "url": "http://file.cnrouter.com/index.php/Index/lzy.html"
               },
               {
                 "type": "link",
